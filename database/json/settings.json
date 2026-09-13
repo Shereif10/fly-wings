@@ -1,0 +1,151 @@
+[
+  {
+    "id": "pages",
+    "features": {
+      "sectionTitleAr": "لماذا أجنحة الطيران؟",
+      "sectionTitleEn": "Why Fly Wings?",
+      "sectionSubtitleAr": "نقدم تجربة تدريبية استثنائية ترتكز على الجودة والاحترافية، لنمكّنك من بناء مسار مهني متميز في عالم الطيران.",
+      "sectionSubtitleEn": "We offer an exceptional training experience combining quality and professionalism",
+      "items": [
+        {
+          "titleEn": "Internationally Certified",
+          "id": "1",
+          "descriptionEn": "Under the umbrella of the General Authority of Civil Aviation, ICAO",
+          "descriptionAr": " ICAO تحت مظلة الهيئة العامة للطيران المدني ",
+          "titleAr": "معتمد دوليا"
+        },
+        {
+          "descriptionEn": "An elite group of captains with global experience",
+          "descriptionAr": "نخبة من الكباتن ذوي الخبرة العالمية",
+          "titleAr": "مدربين محترفين",
+          "titleEn": "Professional Instructors",
+          "id": "2"
+        },
+        {
+          "id": "3",
+          "titleAr": "تدريب دولي",
+          "titleEn": "International Training",
+          "descriptionAr": "شراكات أكاديميات في الولايات المتحدة الامريكية وفرع معتمد بجنوب أفريقيا",
+          "descriptionEn": "Partnerships of academies in the United States of America and an accredited branch in South Africa"
+        },
+        {
+          "titleAr": "برامج مرنة",
+          "titleEn": "Flexible Programs",
+          "descriptionEn": "Training plans for all levels and needs",
+          "id": "4",
+          "descriptionAr": "خطط تدريب تناسب جميع المستويات والاحتياجات"
+        }
+      ]
+    },
+    "about": {
+      "heroSubtitleAr": "رواد في مجال تدريب الطيران بالمملكة العربية السعودية، نقدم برامج تدريبية متكاملة تهدف إلى إعداد طيارين محترفين وفق المعايير الدولية، وبإشراف مدربين معتمدين وبيئة تدريب متقدمة.",
+      "heroSubtitleEn": "Pioneers of Aviation Training in Saudi Arabia",
+      "contentAr": "أجنحة الطيران شركة سعودية رائدة متخصصة في تدريب الطيران، تأسست بهدف تقديم برامج تدريبية احترافية وفق أعلى المعايير المعتمدة، لتأهيل كوادر وطنية قادرة على تلبية متطلبات قطاع الطيران.",
+      "contentEn": "Fly Wings is a leading Saudi company specialized in aviation training, established to provide comprehensive training programs.",
+      "vision2030Ar": "نساهم في تحقيق رؤية المملكة 2030 من خلال تأهيل كوادر سعودية متخصصة في مجال الطيران، وتطوير صناعة الطيران المحلية، ودعم التحول نحو اقتصاد متنوع ومستدام.",
+      "vision2030En": "We contribute to achieving Saudi Arabia's Vision 2030 by qualifying specialized Saudi cadres in the aviation field, developing the local aviation industry, and supporting the transformation towards a diverse and sustainable economy.",
+      "visionAr": "أن نكون الخيار الأول والرائد في تدريب الطيران بالمملكة العربية السعودية، من خلال تقديم برامج تدريبية معتمدة، وبيئة تعليمية احترافية تُسهم في إعداد كوادر متميزة تلبي متطلبات قطاع الطيران.",
+      "visionEn": "To be the first choice for aviation training in the region",
+      "missionAr": "تقديم برامج تدريب طيران عالية الجودة تُسهم في تأهيل المتدربين بالمعرفة والمهارات العملية اللازمة للنجاح والتميز في صناعة الطيران، وفق أعلى معايير السلامة والاحترافية.",
+      "missionEn": "Providing high-quality training that qualifies trainees for success in aviation",
+      "valuesAr": "نلتزم بالجودة والسلامة والاحترافية في جميع ما نقدمه، ونسعى إلى التميز المستمر من خلال تطبيق أعلى المعايير المعتمدة، وتوفير بيئة تدريب احترافية تُعزز الثقة والكفاءة، وتدعم بناء كوادر مؤهلة قادرة على المنافسة والنجاح في قطاع الطيران.",
+      "valuesEn": "Quality, safety, professionalism, and excellence in everything we do",
+      "imageUrl": "",
+      "founderMessageAr": "نؤمن بأن كل حلم بالطيران يستحق أن يتحقق.",
+      "founderMessageEn": "We believe that every dream of flying deserves to come true.",
+      "founderNameAr": "الكابتن أحمد الشمري",
+      "founderNameEn": "Captain Ahmed Al-Shammari",
+      "founderTitleAr": "المؤسس والرئيس التنفيذي",
+      "founderTitleEn": "Founder & CEO"
+    },
+    "stats": {
+      "graduates": 361,
+      "graduatesLabelAr": "خريج ناجح",
+      "graduatesLabelEn": "Successful Graduates",
+      "years": 6,
+      "yearsLabelAr": "سنة خبرة",
+      "yearsLabelEn": "Years Experience",
+      "partners": 3,
+      "partnersLabelAr": "شريك تدريبي",
+      "partnersLabelEn": "Training Partners",
+      "successRate": 85,
+      "successRateLabelAr": "نسبة النجاح",
+      "successRateLabelEn": "Success Rate"
+    },
+    "updatedAt": "2026-08-27T09:38:49.033Z",
+    "homeAbout": {
+      "titleAr": "أجنحة الطيران",
+      "titleEn": "Fly Wings",
+      "subtitleAr": "في سطور",
+      "subtitleEn": "In Brief",
+      "descriptionAr": "شركة سعودية رائدة في مجال التدريب على الطيران، تأسست لتكون الخيار الأول للراغبين في تحقيق حلم الطيران.",
+      "descriptionEn": "A leading Saudi company in aviation training, established to be the first choice for those who want to achieve their dream of flying.",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/pages%2Fhome-about-1768372088478-2%D8%B5%D9%88%D8%B1%D8%A9%20%D8%B7%D9%8A%D8%A7%D8%B1%D8%A9.jpg?alt=media&token=54d5613f-4c73-4ef0-b70d-0c416190f454",
+      "statsTitleAr": "الإحصائيات - 2019 - 2025",
+      "statsTitleEn": "Statistics - 2019 - 2025",
+      "statsItems": [
+        {
+          "value": "58900",
+          "labelAr": "ساعات تدريب عملي",
+          "id": "1",
+          "labelEn": "Practical training hours"
+        },
+        {
+          "value": "19002",
+          "labelEn": "Theoretical training hours",
+          "id": "2",
+          "labelAr": "ساعات تدريب نظري"
+        },
+        {
+          "id": "3",
+          "labelEn": "Takeoff and Landing",
+          "value": "19934",
+          "labelAr": "الإقلاع والهبوط"
+        },
+        {
+          "value": "361",
+          "id": "4",
+          "labelEn": "Aviation trainee",
+          "labelAr": "متدرب طيران"
+        },
+        {
+          "value": "209",
+          "id": "1768382611969",
+          "labelEn": "They obtained all the licenses",
+          "labelAr": "حصلوا على جميع الرخص"
+        },
+        {
+          "labelEn": "They joined the labor market",
+          "labelAr": "التحقوا بسوق العمل",
+          "id": "1768382666359",
+          "value": "101"
+        }
+      ],
+      "stat3LabelEn": "Takeoffs & Landings",
+      "stat4LabelEn": "Flight Trips",
+      "stat1LabelAr": "ساعات تدريب عملي",
+      "stat3LabelAr": "ساعات تدريب نظري",
+      "stat2LabelAr": "اقلاع وهبوط",
+      "stat2LabelEn": "Issued Memberships",
+      "stat1Value": "58900",
+      "stat4Value": "361",
+      "stat2Value": "19934",
+      "stat4LabelAr": "متدرب طيران",
+      "stat1LabelEn": "Training Hours",
+      "stat3Value": "19002"
+    },
+    "home": {
+      "badgeAr": "",
+      "badgeEn": "",
+      "heroTitleAr": "",
+      "heroTitleEn": "",
+      "heroSubtitleAr": "",
+      "heroSubtitleEn": "",
+      "heroVideoUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/videos%2Fhero-1787823472270.mp4?alt=media&token=f9c497b4-e012-44c5-adf7-7fe206f8b902",
+      "heroImageUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/images%2Fhero-1783346195307.jpeg?alt=media&token=db3bcae8-c320-436c-96e5-404b230a88dd",
+      "heroMediaType": "video",
+      "heroAnimatedTextAr": "",
+      "heroAnimatedTextEn": ""
+    }
+  }
+]

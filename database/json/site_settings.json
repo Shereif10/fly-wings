@@ -1,0 +1,102 @@
+[
+  {
+    "id": "general",
+    "otherSocialLinks": [],
+    "metaTitleAr": "أجنحة الطيران - للتدريب على الطيران",
+    "whatsapp": "https://wsend.co/966559254035",
+    "addressAr": "المملكة العربية السعودية",
+    "heroImagePackages": "",
+    "heroImageContact": "",
+    "instagram": "",
+    "metaTitleEn": "Fly Wings - Aviation Training",
+    "heroImageBoardMembers": "",
+    "metaDescriptionEn": "The best aviation training programs in Saudi Arabia",
+    "updatedAt": "2026-02-22T15:09:00.264Z",
+    "twitter": "https://x.com/b_flywings?s=21",
+    "showActivitiesSection": false,
+    "heroImageJourney": "",
+    "linkedin": "",
+    "heroImageVision": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/hero-images%2F1771772934556_2%D8%B5%D9%88%D8%B1%D8%A9%20%D8%B7%D9%8A%D8%A7%D8%B1%D8%A9.jpg?alt=media&token=39125ecf-d536-43ac-8c3c-471f6f516fd6",
+    "heroImageGallery": "",
+    "addressEn": "Saudi Arabia",
+    "showGraduatesSection": true,
+    "metaDescriptionAr": "أفضل برامج التدريب على الطيران في المملكة العربية السعودية",
+    "email": "info@bflywings.com",
+    "heroImageActivities": "",
+    "showTrainingProgramsSection": true,
+    "tiktok": "https://www.tiktok.com/@flying.wings1?_r=1&_t=ZS-931x6ZYAUD3",
+    "snapchat": "",
+    "showPartnersSection": false,
+    "heroImageBlog": "",
+    "heroImageTrainingTeam": "",
+    "showTrainingTeamSection": false,
+    "heroImageNews": "",
+    "phone": "+966559254035",
+    "heroImageGraduates": "",
+    "heroImageFAQ": "",
+    "planeImageUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/site-images%2F1768372372098_2%D8%B5%D9%88%D8%B1%D8%A9%20%D8%B7%D9%8A%D8%A7%D8%B1%D8%A9.jpg?alt=media&token=c2c7dd24-838c-4aed-b2dd-55d82a178013",
+    "heroImageAbout": "",
+    "youtube": "",
+    "facebook": ""
+  },
+  {
+    "id": "journey",
+    "pageTitleAr": "انطلاقة الأكاديمية",
+    "pageSubtitleAr": "شاهد رحلة التحول منذ الانطلاقة 2019م وحتى اليوم",
+    "pageSubtitleEn": "Watch our transformation journey from 2019 to today",
+    "pageTitleEn": "Academy Launch"
+  },
+  {
+    "id": "page_seo",
+    "pages": {
+      "news": {
+        "descriptionEn": "Stay up to date with the latest Fly Wings news, student achievements, and our participation in educational events and forums.",
+        "titleEn": "News | Latest Updates & Events from Fly Wings",
+        "descriptionAr": " تابع آخر أخبار أجنحة الطيران، إنجازات طلابنا، مشاركاتنا في الفعاليات والملتقيات التعليمية، وكل جديد في مسيرة الأكاديمية.",
+        "titleAr": "الأخبار | آخر أخبار وفعاليات أجنحة الطيران"
+      },
+      "graduates": {
+        "descriptionEn": "Discover the success stories of Fly Wings graduates and how they turned their dream into a real pilot license — start your career path toward the cockpit with confidence.",
+        "titleEn": "Graduates | Success Stories from Fly Wings",
+        "descriptionAr": " اكتشف قصص نجاح خريجي أجنحة الطيران وكيف حوّلوا حلمهم إلى رخصة طيران واقعية، وابدأ مسارك المهني بثقة نحو قمرة القيادة.",
+        "titleAr": "نجوم الطيران | قصص نجاح خريجي أجنحة الطيران"
+      },
+      "faq": {
+        "descriptionEn": "Get clear answers to the most common questions about admission requirements, training duration, costs, and pilot licenses at Fly Wings to help you make the right decision.",
+        "titleEn": "FAQ | Everything You Need to Know About Pilot Training",
+        "descriptionAr": " إجابات شاملة على أكثر الأسئلة شيوعاً حول شروط الالتحاق، مدة التدريب، التكلفة، والرخص الجوية في أجنحة الطيران، لمساعدتك على اتخاذ القرار الصحيح.",
+        "titleAr": "الأسئلة الشائعة | كل ما تريد معرفته عن تدريب الطيران"
+      },
+      "about": {
+        "descriptionEn": "Learn about Fly Wings' story, vision, and mission in training professional pilots in Saudi Arabia, along with our international accreditations and journey since our founding.",
+        "titleEn": "About Us | Fly Wings Vision & Mission in Pilot Training",
+        "descriptionAr": "تعرّف على قصة أجنحة الطيران، رؤيتنا ورسالتنا في تأهيل طيارين محترفين بالمملكة العربية السعودية، واعتمادنا الدولي ومسيرتنا منذ التأسيس.",
+        "titleAr": "من نحن | رؤية ورسالة أجنحة الطيران للتدريب الجوي"
+      },
+      "blog": {
+        "descriptionEn": "Expert articles on pilot training, PPL, CPL, and IR licenses, training costs, and studying abroad — everything you need to make an informed decision about becoming a pilot.",
+        "titleEn": "Fly Wings Blog | Articles & Tips for Aspiring Pilots",
+        "descriptionAr": " مقالات متخصصة عن دراسة الطيران، رخص PPL وCPL وIR، تكاليف التدريب، والدراسة في الخارج، لمساعدتك على اتخاذ قرار مدروس نحو احتراف الطيران.",
+        "titleAr": "مدونة أجنحة الطيران | مقالات ونصائح عن تدريب الطيارين"
+      },
+      "packages": {
+        "descriptionEn": "Explore Fly Wings' training packages tailored to your needs, from language preparation to Private and Commercial Pilot Licenses, and choose the package that fits your career goals.",
+        "titleEn": "Training Packages | Choose Your Program with Fly Wings",
+        "descriptionAr": "استعرض باقات أجنحة الطيران التدريبية المصممة حسب احتياجك، من التأهيل اللغوي إلى رخصة الطيران الخاص والتجاري، واختر الباقة الأنسب لهدفك المهني.",
+        "titleAr": "باقات تدريب الطيران | اختر برنامجك مع أجنحة الطيران"
+      },
+      "training-programs": {
+        "descriptionEn": "Discover the stages of your learning journey at Fly Wings: English for Aviation, Ground School, and hands-on flight training, all the way to your PPL and CPL licenses.",
+        "titleEn": "Training Programs | From English for Aviation to Pilot License",
+        "descriptionAr": "تعرّف على مراحل رحلتك التعليمية في أجنحة الطيران: اللغة الإنجليزية، الدراسات الأرضية، والتدريب العملي على الطيران، وصولاً إلى رخصة PPL وCPL.",
+        "titleAr": "البرامج التدريبية | من اللغة الإنجليزية حتى رخصة الطيران"
+      },
+      "home": {
+        "descriptionEn": "Fly Wings is a leading Saudi aviation academy, ICAO and GACA certified, offering complete training programs from English for Aviation to PPL, CPL, and IR licenses. ",
+        "titleEn": "Fly Wings | Certified Aviation Training Academy in Saudi Arabia",
+        "descriptionAr": "أجنحة الطيران أكاديمية سعودية معتمدة دولياً من ICAO والهيئة العامة للطيران المدني، تقدم برامج متكاملة من اللغة الإنجليزية حتى رخصة PPL وCPL وIR. ابدأ رحلتك نحو قمرة القيادة.",
+        "titleAr": "أجنحة الطيران | أكاديمية تدريب طيران معتمدة في السعودية"
+      }
+    }
+  }
+]

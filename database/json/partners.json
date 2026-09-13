@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2AH5j8gbFQ6OE15Q9NkU",
+    "nameEn": "قم بإضافه شريك نجاح",
+    "nameAr": "قم بإضافه شريك نجاح",
+    "websiteUrl": "https://www.gaca.gov.sa",
+    "published": true,
+    "updatedAt": "2025-12-22T12:37:17.319Z",
+    "createdAt": "2025-12-21T12:28:22.288Z",
+    "order": 4,
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/partners%2F1766407034361_%D9%85%D9%82%D8%B5%D9%88%D8%B1%D8%A9.jpg?alt=media&token=e85abaf2-6d71-4c35-816e-60003753dabe"
+  },
+  {
+    "id": "2spz0wdA3V0J5TJzrOie",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/partners%2F1766407013302_%D9%85%D9%82%D8%B5%D9%88%D8%B1%D8%A9.jpg?alt=media&token=fe7440fd-cc73-4969-8057-e17725739806",
+    "nameEn": "قم بإضافه شريك نجاح",
+    "createdAt": "2025-12-21T12:28:21.964Z",
+    "order": 3,
+    "websiteUrl": "https://www.iabmrr.gov.sa",
+    "updatedAt": "2025-12-22T12:36:56.635Z",
+    "published": true,
+    "nameAr": "قم بإضافه شريك نجاح"
+  },
+  {
+    "id": "FKFxiwK8dbo9UQ4uNVVc",
+    "published": true,
+    "updatedAt": "2025-12-22T12:36:31.936Z",
+    "createdAt": "2025-12-21T12:28:21.629Z",
+    "websiteUrl": "https://www.kkwr.gov.sa",
+    "nameEn": "قم بإضافه شريك نجاح",
+    "order": 2,
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/partners%2F1766406988963_%D9%85%D9%82%D8%B5%D9%88%D8%B1%D8%A9.jpg?alt=media&token=f60234d1-65d7-45fd-ac43-7539b5af4ef1",
+    "nameAr": "قم بإضافه شريك نجاح"
+  },
+  {
+    "id": "ILTCt7SH8wLnggqhe9CO",
+    "order": 1,
+    "nameAr": "قم بإضافه شريك نجاح",
+    "nameEn": "قم بإضافه شريك نجاح",
+    "websiteUrl": "https://www.sans.gov.sa",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/partners%2F1766406999564_%D9%85%D9%82%D8%B5%D9%88%D8%B1%D8%A9.jpg?alt=media&token=6814c639-ec33-42e7-a598-2c7898f9ef96",
+    "createdAt": "2025-12-21T12:28:19.643Z",
+    "updatedAt": "2025-12-22T12:36:42.685Z",
+    "published": true
+  },
+  {
+    "id": "ad3B79k1P1saayeNaFSE",
+    "order": 5,
+    "websiteUrl": "https://www.gaca.gov.sa",
+    "nameAr": "قم بإضافه شريك نجاح",
+    "published": true,
+    "updatedAt": "2025-12-22T12:37:35.002Z",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/partners%2F1766407052280_%D9%85%D9%82%D8%B5%D9%88%D8%B1%D8%A9.jpg?alt=media&token=8252207d-bf18-4301-8001-da4a85a53dd8",
+    "nameEn": "قم بإضافه شريك نجاح",
+    "createdAt": "2025-12-21T12:28:22.612Z"
+  },
+  {
+    "id": "xTgzlTrSON5z0hvATVJx",
+    "nameEn": "قم بإضافه شريك نجاح",
+    "nameAr": "قم بإضافه شريك نجاح",
+    "order": 6,
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/flywings-ffe9a.firebasestorage.app/o/partners%2F1766407065319_%D9%85%D9%82%D8%B5%D9%88%D8%B1%D8%A9.jpg?alt=media&token=98a35d05-5a6f-426d-a231-753a6c5c8ce3",
+    "published": true,
+    "updatedAt": "2025-12-22T12:37:47.469Z",
+    "websiteUrl": "https://www.oxfordsaudiaviation.com",
+    "createdAt": "2025-12-21T12:28:22.936Z"
+  }
+]

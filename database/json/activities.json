@@ -1,0 +1,51 @@
+[
+  {
+    "id": "88MxD3Au8wr2rrRTsJMV",
+    "excerptEn": "A gathering of aviation enthusiasts from various regions in an exciting fly-in event",
+    "contentAr": "<p>ملتقى سنوي يجمع هواة ومحترفي الطيران للتعرف على أحدث التقنيات وتبادل الخبرات.</p>",
+    "excerptAr": "تجمع لعشاق الطيران من مختلف المناطق في فعالية فلاي-ان الممتعة",
+    "category": "ملتقى",
+    "images": [
+      "https://images.unsplash.com/photo-1559060017-445fb4429b21?q=80&w=800"
+    ],
+    "titleEn": "General Aviation Meeting and Fly-In Event in Madinah",
+    "date": "2025-01-09",
+    "titleAr": "ملتقى الطيران العام وفعالية فلاي-ان بالمدينة المنورة",
+    "published": true,
+    "contentEn": "<p>An annual meeting bringing together aviation hobbyists and professionals to learn about the latest technologies and exchange experiences.</p>",
+    "featured": false
+  },
+  {
+    "id": "DdBSYUeAzoeGjW1t2Fjb",
+    "contentEn": "<p>The first aviation event in Saudi Arabia combining innovation, culture, and adventure in an exceptional display. This is more than just an air show, it is a global gathering where aviation enthusiasts and industry leaders meet.</p>",
+    "published": true,
+    "titleAr": "معرض الطيران العام ساند اند فن 2025",
+    "date": "2025-11-25",
+    "titleEn": "General Aviation Airshow Sand and Fun 2025",
+    "featured": true,
+    "category": "معرض",
+    "excerptAr": "الحدث الأول للطيران في المملكة العربية السعودية الذي يجمع بين الابتكار والثقافة والمغامرة",
+    "excerptEn": "The first aviation event in Saudi Arabia combining innovation, culture, and adventure",
+    "contentAr": "<p>الحدث الأول للطيران في المملكة العربية السعودية الذي يجمع بين الابتكار والثقافة والمغامرة في عرض استثنائي. هذا أكثر من مجرد عرض جوي، إنه تجمع عالمي حيث يلتقي عشاق الطيران وقادة الصناعة.</p>",
+    "images": [
+      "https://images.unsplash.com/photo-1540962351504-03099e0a754b?q=80&w=800",
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=800"
+    ]
+  },
+  {
+    "id": "Vg1oLWHXbCnvpJr2QpOC",
+    "published": true,
+    "date": "2024-11-19",
+    "images": [
+      "https://images.unsplash.com/photo-1569629743817-70d8db6c323b?q=80&w=800"
+    ],
+    "contentEn": "<p>Proud to host the 118th FAI General Conference in Riyadh.</p>",
+    "category": "مؤتمر",
+    "featured": false,
+    "contentAr": "<p>فخورون باستضافة المؤتمر العام الـ118 للاتحاد الدولي للرياضات الجوية في مدينة الرياض.</p>",
+    "excerptEn": "Hosting the FAI General Conference in Riyadh",
+    "excerptAr": "استضافة المؤتمر العام للاتحاد الدولي للطيران في الرياض",
+    "titleAr": "المؤتمر العام الـ(118) للاتحاد العالمي للرياضات الجوية",
+    "titleEn": "118th FAI General Conference"
+  }
+]

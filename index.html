@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>أجنحة الطيران - للتدريب على الطيران | Fly Wings Aviation Training</title>
+    <meta name="description" data-rh="true" content="أجنحة الطيران شركة سعودية رائدة في مجال التدريب على الطيران. برامج تدريبية متكاملة من اللغة الإنجليزية حتى رخصة الطيران PPL و CPL و IR.">
+    <meta name="author" content="أجنحة الطيران - Fly Wings" />
+    <meta name="robots" content="index, follow">
+
+    <!-- Site-wide Open Graph defaults (per-page values are injected per route) -->
+    <meta property="og:site_name" content="أجنحة الطيران">
+    <meta property="og:locale" content="ar_SA">
+    <meta property="og:locale:alternate" content="en_US">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@b_flywings" />
+    <meta name="twitter:creator" content="@b_flywings" />
+
+    <!-- Early connections to third-party origins used on first paint -->
+    <link rel="preconnect" href="https://firestore.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://firebasestorage.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://flywings-ffe9a.firebaseapp.com" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://firestore.googleapis.com">
+    <link rel="dns-prefetch" href="https://firebasestorage.googleapis.com">
+    <link rel="dns-prefetch" href="https://www.googleapis.com">
+    <link rel="dns-prefetch" href="https://apis.google.com">
+
+    <!-- Self-hosted fonts (no Google Fonts request) -->
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/tajawal-400-arabic.woff2" crossorigin>
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/tajawal-700-arabic.woff2" crossorigin>
+    <link rel="stylesheet" href="/fonts/fonts.css">
+
+    <!-- Hero background poster is the LCP element on the homepage -->
+    <link rel="preload" as="image" fetchpriority="high" href="/media/hero-poster.jpg">
+
+
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="/logo.svg">
+    <link rel="icon" type="image/png" sizes="32x32" href="/logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/logo.png">
+
+
+    <!-- Google Tag Manager (single container, loaded after first interaction or idle so it doesn't block rendering) -->
+    <script>(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    var loaded=false;
+    function load(){
+      if(loaded||w.__gtmLoaded===i||d.querySelector('script[src*="googletagmanager.com/gtm.js?id='+i+'"]'))return;
+      loaded=true;w.__gtmLoaded=i;
+      w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+      var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+      j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+      f.parentNode.insertBefore(j,f);
+      ['pointerdown','keydown','touchstart','scroll'].forEach(function(e){w.removeEventListener(e,load)});
+    }
+    ['pointerdown','keydown','touchstart','scroll'].forEach(function(e){w.addEventListener(e,load,{once:true,passive:true})});
+    w.addEventListener('load',function(){setTimeout(load,2500)},{once:true});
+    })(window,document,'script','dataLayer','GTM-NFGMCB92');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFGMCB92"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

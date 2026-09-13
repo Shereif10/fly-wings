@@ -1,0 +1,18 @@
+[
+  {
+    "id": "privacy",
+    "updatedAt": "2025-12-19T14:42:46.017Z",
+    "titleEn": "Privacy Policy",
+    "titleAr": "سياسة الخصوصية",
+    "contentAr": "نحن في أجنحة الطيران نلتزم بحماية خصوصيتك...",
+    "contentEn": "At Fly Wings, we are committed to protecting your privacy..."
+  },
+  {
+    "id": "terms",
+    "titleAr": "الشروط والأحكام",
+    "contentAr": "مرحباً في أجنحة الطيران. باستخدامك لموقعنا...",
+    "contentEn": "Welcome to Fly Wings. By using our website...",
+    "updatedAt": "2025-12-19T14:42:54.387Z",
+    "titleEn": "Terms & Conditions"
+  }
+]

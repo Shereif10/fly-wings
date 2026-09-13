@@ -1,0 +1,25 @@
+Fly Wings - Database export
+Date: 2026-09-05T14:14:13.300Z
+
+activities: 3
+applications: 191
+blog_posts: 34
+board_members: 2
+contact_messages: 44
+faqs: 14
+gallery: 5
+graduates: 5
+journey_milestones: 4
+legal_pages: 2
+news: 9
+packages: 7
+page_views: 38241
+partners: 6
+services: 4
+settings: 1
+site_settings: 3
+training_programs: 3
+training_team: 3
+users: 0
+
+Note: "users" is empty because admin accounts live in Firebase Authentication, not Firestore.

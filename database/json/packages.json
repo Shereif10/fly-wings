@@ -1,0 +1,328 @@
+[
+  {
+    "id": "2SbfAnxQ5N42cyvrMn6t",
+    "nameEn": "Package 2 - Four Installments",
+    "notIncludedAr": [
+      "تذكرة السفر",
+      "السكن",
+      "رسوم الاختبارات"
+    ],
+    "updatedAt": "2026-08-25T00:00:00.000Z",
+    "durationAr": "من 16 إلى 26 شهراً",
+    "fullDescriptionEn": "",
+    "licensesEn": [
+      "Private Pilot License (PPL)",
+      "Instrument Rating (IR)",
+      "Commercial Pilot License (CPL)",
+      "Multi-Engine License (ME)"
+    ],
+    "descriptionEn": "The same comprehensive training program with the flexibility of payment in four installments.",
+    "featuresAr": [
+      "لغة إنجليزية عامة ومصطلحات الطيران",
+      "دراسة الطيران النظرية",
+      "الطيران العملي PPL - IR - CPL - ME (250 ساعة)",
+      "رسوم التأشيرة",
+      "تجهيز إجراءات التأشيرة",
+      "تسليم زي الطيارين (قطعتان)",
+      "المساعدة في معادلة الرخص إلى رخص سعودية",
+      "دورة تأهيلية لاجتياز اختبارات القبول في شركات الطيران"
+    ],
+    "notIncludedEn": [
+      "Flight ticket",
+      "Accommodation",
+      "Exam fees"
+    ],
+    "fullDescriptionAr": "",
+    "order": 2,
+    "popular": false,
+    "licensesAr": [
+      "رخصة الطيار الخاص PPL",
+      "رخصة الطيران بالعدادات IR",
+      "رخصة الطيار التجاري CPL",
+      "رخصة متعدد المحركات ME"
+    ],
+    "durationEn": "16 to 26 months",
+    "descriptionAr": "نفس البرنامج التدريبي المتكامل مع مرونة السداد على أربع دفعات.",
+    "imageUrl": "",
+    "nameAr": "الباقة الثانية — على أربع دفعات",
+    "price": 219999,
+    "active": true,
+    "createdAt": "2025-12-21T14:37:49.602Z",
+    "featuresEn": [
+      "General English language & aviation terminology",
+      "Aviation theory study",
+      "Practical flight training PPL - IR - CPL - ME (250 hours)",
+      "Visa fees",
+      "Visa procedures preparation",
+      "Pilot uniform provided (2 sets)",
+      "Assistance with equating licenses to Saudi licenses",
+      "Preparatory course to pass airline admission tests"
+    ]
+  },
+  {
+    "id": "KCEvhMMCbxJuTmMJY0oG",
+    "updatedAt": "2026-01-25T12:08:12.371Z",
+    "featuresEn": [],
+    "descriptionEn": "",
+    "order": 5,
+    "licensesAr": [],
+    "durationEn": "Expected time to complete the study: 16 to 26 months, which may increase or decrease depending on the student's performance.",
+    "nameEn": "",
+    "descriptionAr": "تبدأ هذه الباقة من دراسة اللغة الإنجليزية وتتضمن برنامج تدريبي شامل ومتكامل لدراسة الطيران العمودي ( الهيلوكبتر ) ، ويمر الطالب بمنهج دراسة الطيران النظري وتنتهي بالتدريب العملي:\n\nدورة لغة انجليزية عامة ومصطلحات الطيران.\nدورة دراسة الطيران النظرية لعلوم الطيران.\nدورة الطيران العملي -  بعدد 150 ساعة.\nتجهيز إجراءات تأشيرة الدراسة.\nرسوم التأشيرة.\nاستقبال ومتابعة في دولة الطيران العملي.\nسكن في دولة الطيران العملي (لمدة سنة كأقصى حد).\nتسليم زي الطيارين عدد (2).\nالتكفل بجميع رسوم الاختبارات التحريرية والعملية للمرة الأولى.\nالمساعدة في معادلة الرخص إلى رخص سعودية.\nالمساعدة في التقديم على شركات الطيران.\nدورة تأهيلية لاجتياز اختبارات القبول والمقابلة الشخصية بشركات الطيران.",
+    "fullDescriptionAr": "",
+    "popular": false,
+    "featuresAr": [],
+    "nameAr": "باقة دراسة الطيران العمودي (الهيلوكوبتر)",
+    "durationAr": " الوقت المتوقع لإنهاء الدراسة : 16 الى 26 شهر قد تزيد أو تنقص المدة حسب أداء الطالب. ",
+    "active": false,
+    "createdAt": "2025-12-21T14:40:56.482Z",
+    "fullDescriptionEn": "",
+    "licensesEn": [],
+    "imageUrl": "",
+    "price": 0
+  },
+  {
+    "id": "c3Ds5F61nySoqae6rc65",
+    "order": 1,
+    "fullDescriptionEn": "",
+    "featuresAr": [
+      "لغة إنجليزية عامة ومصطلحات الطيران",
+      "دراسة الطيران النظرية",
+      "الطيران العملي PPL - IR - CPL - ME (250 ساعة)",
+      "تأشيرة الدراسة ورسومها + تجهيز إجراءات التأشيرة",
+      "تذكرة سفر ذهاب وعودة",
+      "استقبال ومتابعة في دولة الطيران العملي",
+      "سكن في دولة الطيران العملي لمدة 5 أشهر",
+      "الاختبارات التحريرية والنظرية للمرة الأولى",
+      "تسليم زي الطيارين (قطعتان)",
+      "المساعدة في معادلة الرخص إلى رخص سعودية",
+      "دورة تأهيلية لاجتياز اختبارات القبول في شركات الطيران"
+    ],
+    "popular": false,
+    "fullDescriptionAr": "",
+    "descriptionEn": "A comprehensive training program covering English language, aviation terminology, ground school and practical flight training, with convenient monthly installments.",
+    "imageUrl": "",
+    "licensesEn": [
+      "Private Pilot License (PPL)",
+      "Instrument Rating (IR)",
+      "Commercial Pilot License (CPL)",
+      "Multi-Engine License (ME)"
+    ],
+    "durationAr": "من 16 إلى 26 شهراً",
+    "nameEn": "Package 1 - Foundation (Installment Plan)",
+    "priceEn": "250,000",
+    "updatedAt": "2026-08-25T00:00:00.000Z",
+    "featuresEn": [
+      "General English language & aviation terminology",
+      "Aviation theory study",
+      "Practical flight training PPL - IR - CPL - ME (250 hours)",
+      "Study visa and its fees + visa procedures preparation",
+      "Round-trip flight ticket",
+      "Reception and follow-up in the practical flight training country",
+      "Accommodation in the practical flight training country for 5 months",
+      "Written and theoretical exams for the first time",
+      "Pilot uniform provided (2 sets)",
+      "Assistance with equating licenses to Saudi licenses",
+      "Preparatory course to pass airline admission tests"
+    ],
+    "active": true,
+    "price": 279000,
+    "nameAr": "الباقة الأولى — التأسيسية (نظام الأقساط)",
+    "durationEn": "16 to 26 months",
+    "descriptionAr": "برنامج تدريبي متكامل يشمل اللغة الإنجليزية ومصطلحات الطيران والعلوم النظرية والطيران العملي، بنظام أقساط شهرية مريحة.",
+    "priceAr": "٢٥٠,٠٠٠",
+    "licensesAr": [
+      "رخصة الطيار الخاص PPL",
+      "رخصة الطيران بالعدادات IR",
+      "رخصة الطيار التجاري CPL",
+      "رخصة متعدد المحركات ME"
+    ]
+  },
+  {
+    "id": "cbCpfAJzSlOR6pYFONX0",
+    "imageUrl": "",
+    "createdAt": "2026-06-25T11:12:12.258Z",
+    "licensesAr": [
+      "رخصة الطيار الخاص PPL",
+      "رخصة الطيران بالعدادات IR",
+      "رخصة الطيار التجاري CPL",
+      "رخصة متعدد المحركات ME",
+      "Type Rating A320"
+    ],
+    "durationEn": "24 to 32 months",
+    "premiumNoteAr": "شاملة السكن، التذاكر، رسوم الاختبارات، زي الطيارين، التأشيرة",
+    "nameEn": "Package 5 - Airbus A320 Employment Program (Two Installments)",
+    "descriptionAr": "نفس مراحل ومزايا باقة الدفعة الواحدة، مع مرونة تقسيم المبلغ على دفعتين.",
+    "popular": false,
+    "order": 5,
+    "featuresEn": [
+      "6 months intensive English + 3 months aviation terminology",
+      "3 months ground school + 12 months practical training PPL / IR / CPL / ME",
+      "6 months A320 simulator training to obtain the Type Rating",
+      "24 months operational experience on A320 aircraft",
+      "PPL - IR - CPL - ME - Type Rating A320 + operational experience on the Airbus A320 of up to 1,500 hours"
+    ],
+    "licensesEn": [
+      "Private Pilot License (PPL)",
+      "Instrument Rating (IR)",
+      "Commercial Pilot License (CPL)",
+      "Multi-Engine License (ME)",
+      "Type Rating A320"
+    ],
+    "fullDescriptionEn": "",
+    "premiumNoteEn": "Includes accommodation, tickets, exam fees, pilot uniform, and visa",
+    "price": 899999,
+    "durationAr": "من 24 إلى 32 شهراً",
+    "updatedAt": "2026-08-25T00:00:00.000Z",
+    "descriptionEn": "The same stages and benefits as the single-payment package, with the flexibility of splitting the amount into two payments.",
+    "featuresAr": [
+      "6 أشهر لغة إنجليزية مكثفة + 3 أشهر مصطلحات طيران",
+      "3 أشهر علوم أرضية + 12 شهراً تدريب عملي PPL / IR / CPL / ME",
+      "6 أشهر تدريب على محاكي A320 للحصول على Type Rating",
+      "24 شهراً خبرة تشغيلية على طائرات A320",
+      "PPL - IR - CPL - ME - Type Rating A320 + خبرة تشغيلية على طائرة Airbus A320 إلى 1500 ساعة"
+    ],
+    "nameAr": "الباقة الخامسة — Airbus A320 المنتهية بالتوظيف (دفعتين)",
+    "active": true,
+    "fullDescriptionAr": ""
+  },
+  {
+    "id": "mMQfGthX5Bx2oDgYeWkR",
+    "order": 2,
+    "descriptionAr": "تبدأ هذه الباقة بدورة مصطلحات الطيران باللغة الإنجليزية، وتعتبر باقة متقدمة ومخصصة للذين يمتلكون لغة إنجليزية جيدة وأكثر، ويمر الطالب بدراسة المنهج النظري وينتهي بتدريب الطيران العملي للحصول على 3 رخص للطيران:\n\nدورة مصطلحات الطيران باللغة الإنجليزية.\nدورة دراسة الطيران النظرية لعلوم الطيران.\nدورة الطيران العملي -PPL-IR- CPL - بعدد 250 ساعة.\nتجهيز إجراءات تأشيرة الدراسة.\nرسوم التأشيرة.\nاستقبال ومتابعة في دولة الطيران العملي.\nسكن في دولة الطيران العملي (لمدة خمسة أشهر كأقصى حد).\nتسليم زي الطيارين عدد (1).\nالتكفل بجميع رسوم الإختبارات التحريرية والعملية للمرة الأولى.\nالمساعدة في معادلة الرخص إلى رخص سعودية.\nالمساعدة في التقديم على شركات الطيران.\nدورة تأهيلية لاجتياز اختبارات القبول والمقابلة الشخصية بشركات الطيران.",
+    "imageUrl": "",
+    "featuresAr": [],
+    "priceAr": "٢٠٠,٠٠٠",
+    "active": false,
+    "nameAr": "الباقة الثانية - بدون لغة",
+    "licensesEn": [
+      "Private Pilot License (PPL)",
+      "Instrument Rating (IR)",
+      "Commercial Pilot License (CPL)"
+    ],
+    "durationAr": " الوقت المتوقع لانهاء الدراسة : من 16 شهراً الى 26 شهراً .. قد تزيد أو تنقص المدة حسب أداء الطالب",
+    "popular": false,
+    "descriptionEn": "",
+    "fullDescriptionAr": "",
+    "featuresEn": [],
+    "priceEn": "200,000",
+    "fullDescriptionEn": "",
+    "price": 239000,
+    "updatedAt": "2026-01-25T12:04:36.061Z",
+    "durationEn": "Expected time to complete the study: from 16 months to 26 months... the duration may increase or decrease depending on the student's performance.",
+    "licensesAr": [
+      "رخصة الطيار الخاص PPL",
+      "رخصة الطيران بالعدادات IR",
+      "رخصة الطيار التجاري CPL"
+    ],
+    "nameEn": "Advanced Tier"
+  },
+  {
+    "id": "vmsH4LtQnN8e8zmpWMTN",
+    "durationAr": "من 24 إلى 32 شهراً",
+    "createdAt": "2026-06-25T10:51:16.517Z",
+    "descriptionAr": "منتهية بالتوظيف براتب يصل إلى 8,000 دولار — 10 مقاعد فقط سنوياً.",
+    "licensesEn": [
+      "Private Pilot License (PPL)",
+      "Instrument Rating (IR)",
+      "Commercial Pilot License (CPL)",
+      "Multi-Engine License (ME)",
+      "Type Rating A320"
+    ],
+    "fullDescriptionAr": "",
+    "nameAr": "الباقة الرابعة — Airbus A320 المنتهية بالتوظيف (دفعة واحدة)",
+    "featuresAr": [
+      "6 أشهر لغة إنجليزية مكثفة + 3 أشهر مصطلحات طيران",
+      "3 أشهر علوم أرضية + 12 شهراً تدريب عملي PPL / IR / CPL / ME",
+      "6 أشهر تدريب على محاكي A320 للحصول على Type Rating",
+      "24 شهراً خبرة تشغيلية على طائرات A320",
+      "PPL - IR - CPL - ME - Type Rating A320 + خبرة تشغيلية على طائرة Airbus A320 إلى 1500 ساعة"
+    ],
+    "fullDescriptionEn": "",
+    "active": true,
+    "premiumNoteAr": "شاملة السكن، التذاكر، رسوم الاختبارات، زي الطيارين، التأشيرة",
+    "price": 699999,
+    "durationEn": "24 to 32 months",
+    "descriptionEn": "Ends with employment at a salary of up to USD 8,000 — only 10 seats per year.",
+    "licensesAr": [
+      "رخصة الطيار الخاص PPL",
+      "رخصة الطيران بالعدادات IR",
+      "رخصة الطيار التجاري CPL",
+      "رخصة متعدد المحركات ME",
+      "Type Rating A320"
+    ],
+    "order": 4,
+    "featuresEn": [
+      "6 months intensive English + 3 months aviation terminology",
+      "3 months ground school + 12 months practical training PPL / IR / CPL / ME",
+      "6 months A320 simulator training to obtain the Type Rating",
+      "24 months operational experience on A320 aircraft",
+      "PPL - IR - CPL - ME - Type Rating A320 + operational experience on the Airbus A320 of up to 1,500 hours"
+    ],
+    "popular": false,
+    "premiumNoteEn": "Includes accommodation, tickets, exam fees, pilot uniform, and visa",
+    "imageUrl": "",
+    "nameEn": "Package 4 - Airbus A320 Employment Program (Single Payment)",
+    "updatedAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "vscgZRgBrVka51rXn24u",
+    "active": true,
+    "featuresAr": [
+      "لغة إنجليزية عامة ومصطلحات الطيران",
+      "دراسة الطيران النظرية",
+      "الطيران العملي PPL - IR - CPL - ME (250 ساعة)",
+      "تجهيز إجراءات التأشيرة",
+      "المساعدة في معادلة الرخص إلى رخص سعودية",
+      "دورة تأهيلية لاجتياز اختبارات القبول في شركات الطيران"
+    ],
+    "nameAr": "الباقة الثالثة — العرض الخاص (دفعة واحدة)",
+    "descriptionEn": "The lowest-priced package, paid in one full payment upon registration.",
+    "createdAt": "2025-12-21T14:39:27.401Z",
+    "notIncludedAr": [
+      "رسوم التأشيرة",
+      "تذكرة السفر",
+      "السكن",
+      "رسوم الاختبارات",
+      "زي الطيارين"
+    ],
+    "durationAr": "من 16 إلى 26 شهراً",
+    "price": 179999,
+    "popular": false,
+    "notIncludedEn": [
+      "Visa fees",
+      "Flight ticket",
+      "Accommodation",
+      "Exam fees",
+      "Pilot uniform"
+    ],
+    "licensesEn": [
+      "Private Pilot License (PPL)",
+      "Instrument Rating (IR)",
+      "Commercial Pilot License (CPL)",
+      "Multi-Engine License (ME)"
+    ],
+    "fullDescriptionAr": "",
+    "order": 3,
+    "featuresEn": [
+      "General English language & aviation terminology",
+      "Aviation theory study",
+      "Practical flight training PPL - IR - CPL - ME (250 hours)",
+      "Visa procedures preparation",
+      "Assistance with equating licenses to Saudi licenses",
+      "Preparatory course to pass airline admission tests"
+    ],
+    "descriptionAr": "الأقل سعرًا بين الباقات، تُدفع دفعة واحدة كاملة عند التسجيل.",
+    "nameEn": "Package 3 - Special Offer (Single Payment)",
+    "durationEn": "16 to 26 months",
+    "imageUrl": "",
+    "licensesAr": [
+      "رخصة الطيار الخاص PPL",
+      "رخصة الطيران بالعدادات IR",
+      "رخصة الطيار التجاري CPL",
+      "رخصة متعدد المحركات ME"
+    ],
+    "fullDescriptionEn": "",
+    "updatedAt": "2026-08-25T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4twMdDSKGfLQGHCUELqd",
+    "descriptionEn": "Contributing to achieving Saudi Vision 2030 by qualifying Saudi talents in aviation.",
+    "titleAr": "رؤية 2030",
+    "year": "2030",
+    "order": 4,
+    "descriptionAr": "المساهمة في تحقيق رؤية المملكة 2030 بتأهيل كوادر سعودية في مجال الطيران.",
+    "titleEn": "Vision 2030"
+  },
+  {
+    "id": "CCps4i1B2f3LrvAQpiAu",
+    "titleAr": "التوسع",
+    "descriptionEn": "Expanding services and training programs to cover various aviation fields.",
+    "order": 2,
+    "year": "2019",
+    "titleEn": "Expansion",
+    "descriptionAr": "ضمن خططنا الاستراتيجية للتوسّع، نفتخر بوجود فرع لأكاديمية أجنحة الطيران في جمهورية جنوب أفريقيا، لتقديم التدريب العملي على الطيران وفق معايير معتمدة وبيئة تدريب احترافية تُمكّن طلابنا من اكتساب الخبرة العملية بكفاءة عالية.\n\nيأتي هذا التوسّع دعمًا لرسالتنا في توفير مسارات تدريب عالمية، تجمع بين الجودة، الاعتماد، وسلاسة الانتقال من الدراسة إلى قمرة القيادة."
+  },
+  {
+    "id": "jlSYLEo55qI8040W2Vjj",
+    "titleEn": "Foundation",
+    "order": 1,
+    "descriptionEn": "Establishing Wings of Aviation as a leading company in aviation training both inside and outside the Kingdom of Saudi Arabia.",
+    "year": "2019",
+    "titleAr": "التأسيس",
+    "descriptionAr": "تأسيس أجنحة الطيران كشركة رائدة في مجال تدريب الطيران داخل وخارج المملكة العربية السعودية."
+  },
+  {
+    "id": "zXN0Kra1QINAfOfjrJB5",
+    "order": 3,
+    "descriptionAr": "الدخول كـ شركاء في ثلاث أكاديميات طيران \nفي الولايات المتحدة الامريكية \n",
+    "titleAr": "الاعتماد الدولي",
+    "titleEn": "International Accreditation",
+    "year": "2019",
+    "descriptionEn": "Entering as partners in three aviation academies in the United States"
+  }
+]

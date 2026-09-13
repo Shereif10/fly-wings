@@ -1,0 +1,261 @@
+/* Fonts are self-hosted from /public/fonts (linked in index.html) */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 200 50% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 200 50% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 200 50% 15%;
+
+    /* Logo Primary Teal - from the wings */
+    --primary: 175 60% 40%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Logo Secondary - Deep Teal/Navy */
+    --secondary: 190 70% 30%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 200 15% 92%;
+    --muted-foreground: 200 20% 45%;
+
+    /* Gold Accent - for CTAs and highlights */
+    --accent: 45 100% 50%;
+    --accent-foreground: 200 50% 15%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 200 20% 88%;
+    --input: 200 20% 88%;
+    --ring: 175 60% 40%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 200 50% 12%;
+    --sidebar-foreground: 200 15% 95%;
+    --sidebar-primary: 175 60% 45%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 200 40% 18%;
+    --sidebar-accent-foreground: 200 15% 95%;
+    --sidebar-border: 200 40% 18%;
+    --sidebar-ring: 175 60% 45%;
+
+    /* Aviation theme colors - updated to match logo */
+    --aviation-blue: 190 70% 35%;
+    --aviation-teal: 175 60% 40%;
+    --aviation-navy: 200 40% 18%;
+    --header-text: 200 40% 18%;
+    --aviation-gold: 45 100% 50%;
+    --aviation-sky: 190 100% 95%;
+    --aviation-light: 210 20% 98%;
+
+    /* Gradient colors - teal gradient from logo */
+    --gradient-start: 175 60% 40%;
+    --gradient-end: 190 70% 30%;
+  }
+
+  .dark {
+    --background: 200 45% 8%;
+    --foreground: 190 15% 95%;
+
+    --card: 200 40% 12%;
+    --card-foreground: 190 15% 95%;
+
+    --popover: 200 40% 12%;
+    --popover-foreground: 190 15% 95%;
+
+    /* Logo Primary Teal - brighter for dark mode */
+    --primary: 175 55% 50%;
+    --primary-foreground: 200 50% 10%;
+
+    /* Logo Secondary - Deep Teal */
+    --secondary: 190 65% 40%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 200 35% 18%;
+    --muted-foreground: 190 15% 65%;
+
+    /* Gold Accent */
+    --accent: 45 100% 55%;
+    --accent-foreground: 200 50% 10%;
+
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 200 35% 20%;
+    --input: 200 35% 20%;
+    --ring: 175 55% 50%;
+
+    --sidebar-background: 200 50% 6%;
+    --sidebar-foreground: 190 15% 95%;
+    --sidebar-primary: 175 55% 50%;
+    --sidebar-primary-foreground: 200 50% 10%;
+    --sidebar-accent: 200 35% 15%;
+    --sidebar-accent-foreground: 190 15% 95%;
+    --sidebar-border: 200 35% 15%;
+    --sidebar-ring: 175 55% 50%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  [dir="rtl"] body {
+    font-family: 'Tajawal', sans-serif;
+  }
+
+  [dir="ltr"] body {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent;
+  }
+
+  .bg-gradient-primary {
+    background: linear-gradient(135deg, hsl(var(--aviation-blue)) 0%, hsl(var(--aviation-teal)) 100%);
+  }
+
+  .bg-gradient-hero {
+    background: linear-gradient(135deg, hsl(var(--aviation-navy)) 0%, hsl(var(--aviation-blue)) 50%, hsl(var(--aviation-teal)) 100%);
+  }
+
+  .bg-gradient-card {
+    background: linear-gradient(180deg, hsl(var(--card)) 0%, hsl(var(--muted)) 100%);
+  }
+
+  .glass {
+    @apply bg-white/90 backdrop-blur-xl border border-white/30 shadow-lg;
+  }
+
+  .dark .glass {
+    @apply bg-black/50 backdrop-blur-xl border border-white/10;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-2xl hover:-translate-y-2;
+  }
+
+  .section-padding {
+    @apply py-20 md:py-28;
+  }
+
+  .container-padding {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+
+  /* CSS scroll reveal (enabled only when body has .reveal-ready) */
+  body.reveal-ready [data-reveal] {
+    opacity: 0;
+    transform: translateY(16px);
+    transition: opacity 700ms ease, transform 700ms ease;
+    will-change: opacity, transform;
+  }
+
+  body.reveal-ready [data-reveal].is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    body.reveal-ready [data-reveal] {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+
+  /* Safety net: if framer-motion leaves elements hidden, force visibility */
+  body.force-visible [data-framer-motion] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+@layer components {
+  .btn-shine {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .btn-shine::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+      to right,
+      transparent,
+      rgba(255, 255, 255, 0.3),
+      transparent
+    );
+    transform: rotate(45deg);
+    animation: shine 3s ease-in-out infinite;
+  }
+  
+  @keyframes shine {
+    0%, 100% {
+      transform: translateX(-100%) rotate(45deg);
+    }
+    50% {
+      transform: translateX(100%) rotate(45deg);
+    }
+  }
+}
+
+/* ===== Rich HTML article content (blog / news) ===== */
+@layer components {
+  .article-content :where(img, video, iframe, table) {
+    max-width: 100%;
+  }
+  .article-content :where(img, video) {
+    height: auto;
+  }
+  .article-content .embed-responsive {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    margin: 1.5rem 0;
+  }
+  .article-content .embed-responsive iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-radius: 0.75rem;
+  }
+  .article-content iframe {
+    border-radius: 0.75rem;
+  }
+  .article-content table {
+    width: 100%;
+    border-collapse: collapse;
+    display: block;
+    overflow-x: auto;
+  }
+  .article-content :where(th, td) {
+    border: 1px solid hsl(var(--border));
+    padding: 0.6rem 0.75rem;
+  }
+  .article-content a {
+    text-decoration: underline;
+    word-break: break-word;
+  }
+}
